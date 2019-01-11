@@ -17,5 +17,3 @@ console.log('commit from child branch');
 console.log('commit from test 123');
 
 console.log('commit from master branch');
-
-console.log('commit from test 123 branch');
